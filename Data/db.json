@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at sem porttitor nunc aliquam hendrerit. Sed a tristique sapien. Suspendisse vitae eros eget dui ornare feugiat. Cras justo risus, auctor non massa quis, sollicitudin interdum sem. Nulla ut enim vitae orci accumsan blandit. Suspendisse interdum interdum dignissim. Aenean egestas nisl at lacus tempor tincidunt. Maecenas tempus egestas rutrum. Morbi id pellentesque odio. Vivamus quis dui nisl. Sed luctus lobortis ipsum in lacinia.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My first post",
+      "body": "This is my first post ever. I am very glad to be posting this. Next year i am going to post again. See you all then when i post again because i am not posting again until next year just like i just stated. So afterall, see you all next year my friends",
+      "author": "mario",
+      "id": 2
+    }
+  ]
+}
